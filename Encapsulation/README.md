@@ -51,7 +51,7 @@ can’t hide data without groups, but we can create groups without data hiding. 
 such as roads, parks etc. where all the persons have same access.
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1B5b5UpZmA-kgaj0vRWhC8V3JvM1KWjAP" height="400px" width="500px">
+<img src="https://drive.google.com/uc?export=view&id=10zGBW2XsUwxo0MKMe0v2zNG2qxpE5nx0" height="400px" width="500px">
 </p>   
 
 ### What is the use of encapsulation when I'm able to change the property values with setter methods?
