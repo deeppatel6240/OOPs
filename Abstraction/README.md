@@ -40,7 +40,7 @@ describes subclasses to offer implementation details of the abstract class.
       Data Abstraction is hiding instance class variables from the worlds.
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1TEbbcGHj7gDAqM2UjkAp8olzKt-oAJa5" height="400px" width="500px">
+<img src="https://drive.google.com/uc?export=view&id=1R8CFX6Z35rMaVaZ6Yuc23K1_dpBDfjrg" height="400px" width="500px">
 </p>     
 
 * Process Abstraction
@@ -49,7 +49,7 @@ describes subclasses to offer implementation details of the abstract class.
       When we hide the internal implementation of the different functions involved in a user operation, it creates process abstraction.
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1IEzFN3XIiStc9EW1RcPZMNion4nkWqCL" height="400px" width="500px">
+<img src="https://drive.google.com/uc?export=view&id=1cYP3g2yi1DfptrmwbWMm8afSzfwqW1D9" height="400px" width="500px">
 </p>     
 
 ### How do we achieve Abstraction in Java?
