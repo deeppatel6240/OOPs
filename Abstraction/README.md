@@ -39,18 +39,10 @@ describes subclasses to offer implementation details of the abstract class.
       When the object data is not visible to the outer world, it creates data abstraction. If needed, access to the Objects’ data is provided through some methods.
       Data Abstraction is hiding instance class variables from the worlds.
 
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1R8CFX6Z35rMaVaZ6Yuc23K1_dpBDfjrg" height="400px" width="500px">
-</p>     
-
 * Process Abstraction
 
       We don’t need to provide details about all the functions of an object. 
       When we hide the internal implementation of the different functions involved in a user operation, it creates process abstraction.
-
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1cYP3g2yi1DfptrmwbWMm8afSzfwqW1D9" height="400px" width="500px">
-</p>     
 
 ### How do we achieve Abstraction in Java?
 
