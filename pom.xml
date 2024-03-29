@@ -13,6 +13,7 @@
         <module>Encapsulation</module>
         <module>Inheritance</module>
         <module>Polymorphism</module>
+        <module>DesignPattern</module>
     </modules>
 
     <properties>
